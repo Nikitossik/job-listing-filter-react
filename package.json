@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://nikitossik.github.io/job-listing-filter-react",
+    "deploy": "gh-pages -d build -r https://github.com/Nikitossik/job-listing-filter-react.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
